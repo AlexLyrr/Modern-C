@@ -1,0 +1,4 @@
+Run the following commands in your terminal:
+
+1) c99 -Wall -o getting-started getting-started.c -lm
+2) ./getting-started

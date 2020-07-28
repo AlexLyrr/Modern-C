@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/challenges/build",
+  "command": "/usr/local/musl/bin/musl-gcc    -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections   -o CMakeFiles/challenge18.dir/challenge18.c.o   -c \"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/challenges/challenge18.c\"",
+  "file": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/challenges/challenge18.c"
+}
+]

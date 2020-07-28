@@ -1,0 +1,8 @@
+We read in the description of fgets():
+
+"Reads characters from stream and stores them as a C string into str until (num-1) characters have been read or either a newline or the end-of-file is reached, whichever happens first."
+
+So we read 32 characters at a time up to the encounter of a newline. That is if we have the following line, it will be read in 2 subsequent calls:
+
+"0123456789012345678901234567890123456789\n"
+|------------- call 1 -----------||-call 2-| 

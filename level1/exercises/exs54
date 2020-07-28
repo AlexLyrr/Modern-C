@@ -1,0 +1,2 @@
+The program will fail if the file(s) given as argument(s) fail to
+open with fopen() function call. In any other case it will succeed. 

@@ -1,0 +1,1 @@
+We'd need earth_population * sizeof(double*) = 7.594*8 Gb = 60.752 Gb of physical memory.

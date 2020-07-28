@@ -1,0 +1,8 @@
+Run the following commands:
+
+1) clang -Wall -lm -o getting-started getting-started.c
+2) gcc -std=c99 -Wall -lm -o getting-started getting-started.c
+3) icc -std=c99 -Wall -lm -o getting-started getting-started.c
+
+We try to compile the getting-started.c file with different compilers: clang, gcc, icc. Some of them
+may not be installed in our platform.

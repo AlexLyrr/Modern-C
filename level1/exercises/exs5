@@ -1,0 +1,3 @@
+Argv is an array with all the command line arguments and the program name.
+Argc is the length of array Argv.
+The arguments are the nymbers for which we compute the inverse of them using Heron approximation.

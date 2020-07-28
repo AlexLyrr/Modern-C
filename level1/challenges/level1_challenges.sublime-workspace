@@ -1,0 +1,861 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"las",
+				"last_element_value\tdouble last_element_value"
+			],
+			[
+				"last",
+				"last_element"
+			],
+			[
+				"doubl",
+				"doublePtr1\tdoublePtrInspect doublePtr1"
+			],
+			[
+				"doubleP",
+				"doublePtrInspect"
+			],
+			[
+				"rat_get",
+				"rat_get_sum\trat rat_get_sum(rat x, rat y)"
+			],
+			[
+				"n",
+				"num\tsize_t num"
+			],
+			[
+				"timesp",
+				"timespec_get\tint timespec_get(struct timespec *__ts, int __base)"
+			],
+			[
+				"merge",
+				"merge_sort\tvoid merge_sort(int *array, size_t len)"
+			],
+			[
+				"wid",
+				"widthF2\tint widthF2"
+			],
+			[
+				"strto",
+				"strtoul\tunsigned long strtoul(const char *restrict __nptr, char **restrict __endptr, int __base)"
+			],
+			[
+				"stdi",
+				"stdio.h\t/usr/include"
+			],
+			[
+				"initia",
+				"initialize_shortest_visited_arr"
+			],
+			[
+				"visi",
+				"visitedCounter\tsize_t visitedCounter"
+			],
+			[
+				"short",
+				"shortest_dist\tsize_t * shortest_dist"
+			],
+			[
+				"size_",
+				"__SIZE_MAX__\t__SIZE_MAX__"
+			],
+			[
+				"size",
+				"size_t\tsize_t"
+			],
+			[
+				"fprint",
+				"fprintf\tfprintf …"
+			],
+			[
+				"stri",
+				"strings.h\t/usr/include"
+			],
+			[
+				"pri",
+				"printf\tint printf(const char *__restrict __format, ...)"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"compl",
+				"complex.h\t(test1.c)"
+			],
+			[
+				"initiali",
+				"initialize_parent\tvoid initialize_parent(size_t *parent, size_t len)"
+			],
+			[
+				"initi",
+				"initialize_parent\tabc"
+			],
+			[
+				"val",
+				"value\tabc"
+			],
+			[
+				"limit",
+				"limits.h\t(strtoul.c)"
+			],
+			[
+				"snpri",
+				"snprintf\tint snprintf(char *__restrict __s, size_t __maxlen, const char *__restrict __format, ...)"
+			],
+			[
+				"compute",
+				"compute_N_decimal_places_of_Pi\tabc"
+			],
+			[
+				"res",
+				"result\tabc"
+			],
+			[
+				"sqrt",
+				"sqrt\tdouble sqrt(double __x)"
+			],
+			[
+				"arr",
+				"array\tabc"
+			],
+			[
+				"std",
+				"stdio.h\t(test1.c)"
+			],
+			[
+				"incl",
+				"include\t(exs53.c)"
+			],
+			[
+				"strcm",
+				"strcmp\tint strcmp(const char *__s1, const char *__s2)"
+			],
+			[
+				"asser",
+				"assert.h\t/usr/include"
+			],
+			[
+				"DB",
+				"DBL_MAX\tDBL_MAX"
+			],
+			[
+				"at",
+				"atoi\tint atoi(const char *__nptr)"
+			],
+			[
+				"memc",
+				"memchr\tvoid * memchr(const void *__s, int __c, size_t __n)"
+			],
+			[
+				"t",
+				"tv_nsec\t__syscall_slong_t tv_nsec"
+			],
+			[
+				"tv",
+				"tv_nsec\t__syscall_slong_t tv_nsec"
+			],
+			[
+				"string1",
+				"string1Size\tabc"
+			],
+			[
+				"BYE",
+				"BYTE_TO_BINARY_PATTERN\tabc"
+			],
+			[
+				"curre",
+				"currentClock\tabc"
+			],
+			[
+				"clock",
+				"clock_after_hours\tabc"
+			],
+			[
+				"hour",
+				"hoursAfter\tabc"
+			],
+			[
+				"inclu",
+				"include\t(TrkJamming.pm)"
+			],
+			[
+				"numbe",
+				"numberline_inner\tsize_t numberline_inner(const char *restrict act, size_t *restrict numb, int base)"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"string",
+				"strings\tabc"
+			],
+			[
+				"LS",
+				"L_PASS\t(GenStartup.pm)"
+			],
+			[
+				"sub",
+				"substring\tabc"
+			],
+			[
+				"some",
+				"some_numbers\tabc"
+			],
+			[
+				"olde",
+				"oldest_age\tabc"
+			],
+			[
+				"file",
+				"filename\tabc"
+			],
+			[
+				"Wrte",
+				"Writable\tabc"
+			],
+			[
+				"base",
+				"basename\tabc"
+			],
+			[
+				"word",
+				"word_counter\tabc"
+			],
+			[
+				"number",
+				"numbersAboveAverage\tabc"
+			],
+			[
+				"name",
+				"names_sorted\tabc"
+			],
+			[
+				"fore",
+				"foreach\tfunc"
+			],
+			[
+				"ci",
+				"circumference\tabc"
+			],
+			[
+				"out",
+				"output\tabc"
+			],
+			[
+				"outp",
+				"output_length\tabc"
+			],
+			[
+				"inpu",
+				"input_len\tabc"
+			],
+			[
+				"students",
+				"studentsWithSameGrade\tabc"
+			],
+			[
+				"str",
+				"string.h\t(test_sieve.c)"
+			],
+			[
+				"stud",
+				"studentCounter\tabc"
+			],
+			[
+				"rost",
+				"roster\tabc"
+			],
+			[
+				"roster",
+				"roster_t\tabc"
+			],
+			[
+				"stude",
+				"student_t\tabc"
+			],
+			[
+				"prime",
+				"primesCounter\tabc"
+			],
+			[
+				"pha",
+				"phraseCpy\tabc"
+			],
+			[
+				"strc",
+				"strcmp\tint strcmp(const char *, const char *)"
+			],
+			[
+				"minu",
+				"minute_subtract\tint minute_subtract"
+			],
+			[
+				"ato",
+				"atoi\tint atoi(const char *)"
+			],
+			[
+				"MAX",
+				"MAX_STR_LEN\tMAX_STR_LEN"
+			],
+			[
+				"spri",
+				"sprintf\t(main.c)"
+			],
+			[
+				"premi",
+				"premiumFeatDis\t(hw_otp3_type.h)"
+			],
+			[
+				"incld",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"perl",
+				"PerlTidy: Tidy"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"clang for",
+				"Clang Format: Format Selection"
+			],
+			[
+				"clang format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"clang form",
+				"Clang Format: Set Path"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"error",
+				"EasyClangComplete: Show all errors"
+			],
+			[
+				"sublimeli",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Make"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/Common",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/GenDelStartup"
+	],
+	"file_history":
+	[
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkSigStrengthDependence.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/rationals.h",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs7",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/circular.h",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs33_help.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs31.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs33.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs33_help.h",
+		"/home/alyr/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs30.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/circular.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs3.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkMultipath.pm",
+		"/home/alyr/.config/sublime-text-3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkVehicleDynamicsAccel.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/code snippets/lifetime.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkAmeMockhost.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/test.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/crash.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkTrackability.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkCnoRampAME.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkVehicleDynamicsSpeed.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/GenRobustness.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs29",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs24.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs23.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs16.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs15.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs14.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/rationals.c",
+		"/home/alyr/Desktop/test/C/test1.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge8.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge9.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/numberline.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs4.c",
+		"/usr/lib/llvm-6.0/lib/clang/6.0.0/include/stddef.h",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs9.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/exs8.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkLevelChange.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/exercises/euclid.h",
+		"/usr/include/errno.h",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/strtoul.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/code snippets/anonymous_function.c",
+		"/usr/lib/llvm-6.0/lib/clang/6.0.0/include/stdalign.h",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level2/crash.h",
+		"/home/alyr/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/alyr/.config/sublime-text-3/Packages/DocBlockr/README.md",
+		"/usr/include/stdio.h",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge11.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkEndWeek.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/Common/Report.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/Common.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge10.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge1.c",
+		"/home/alyr/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge7.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge6.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge4.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge3.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge5.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/challenge2.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/CMakeLists.txt",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/challenges/build/Makefile",
+		"/home/alyr/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs62.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkGloChnDelay.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/bin/testconfig.pl",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/HD7RfRamp.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/GenStartup.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkCwScan.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/HD7CustomJamming.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/test",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs61.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs60",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs59",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs57.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs56.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs55",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs53.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs52.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs51.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs49-50.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs48.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs45-46.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs41.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/Common/Test.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkJamming.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/HD7Jamming.pm",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/ReleaseTest/Utils.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs54",
+		"/home/alyr/snap/exercism/5/exercism/users/painhardcore/c/armstrong-numbers/test/test_armstrong_numbers.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level0/exercises/listing1-2_correct.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/switch.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/clock.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs43.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs4",
+		"/home/alyr/.config/sublime-text-3/Packages/add_license_stamp.py",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs49.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs45.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs46.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs13.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs15.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs30-32.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs17.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs22-27.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs28.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs33.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs36.c",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level0/Makefile",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs5",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs1",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs2",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level1/exercises/exs6",
+		"/media/sf_vbx_shared/study material/Programming/C/Modern C/level0/exercises/listing1-2.c",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/TrkPhase.pm",
+		"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/rationals.c",
+		"/home/alyr/Desktop/test/C/circular.c",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/ex16-3.plx",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/demo16.plx",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/ex16-1.plx",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/ex16-2.plx",
+		"/home/alyr/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/home/alyr/.config/sublime-text-3/Packages/User/ClangAutoComplete.sublime-settings",
+		"/home/alyr/Desktop/work/ReleaseTestGUT/lib/TestPackage/SenRestart.pm",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/ex15-2.plx",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/ex15-3.plx",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/ex15-1.plx",
+		"/home/alyr/Desktop/test/Learning_Perl_7th_Edition/ex15-4.plx"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"last_element_value",
+			"last_element",
+			"new_element_pos",
+			"new_pos",
+			"doublePtr1",
+			"dotproduct",
+			"x",
+			"error_cleanup",
+			"SUBX_CK_ACtrl",
+			"scenario",
+			"testDropSV",
+			"dotestrun",
+			"doTestrun",
+			"every 1000ms",
+			"usercommandfile",
+			"command",
+			"timeout",
+			"user",
+			"doTestrun",
+			"usercommandfile",
+			"sweep",
+			"doTestrun",
+			"islast",
+			"doTestrun",
+			"timeout",
+			"doTestrun",
+			"countCodeLost",
+			"cntCodeLockLoss",
+			"report",
+			"maxAccelCodeLockLoss_",
+			"maxAccelCodeLockLoss",
+			"maxAccelCodeLockUn",
+			"cntCodeLockLoss",
+			"sigdb",
+			"doTestrun",
+			"tmeasCollect",
+			"doTestrun",
+			"circularmotion",
+			"lateral accel",
+			"offsstep",
+			"offsets",
+			"update_neighbors_shortest_path",
+			"size_t",
+			"adj",
+			"double",
+			"quickSort",
+			"mergeSort",
+			"CopyArray",
+			"BottomUpMerge",
+			"n",
+			"A",
+			"n",
+			"offs",
+			"doSimoutages",
+			"tcollectdatas",
+			"tCollectDataS ",
+			"tNoOutageS ",
+			"_doTestRunDataCollection",
+			"doTestrun",
+			"measratems",
+			"preparerunconfigs",
+			"measratems",
+			"measratehz",
+			"measratems",
+			"signalLevelDbAcq",
+			"xcorrwarn",
+			"tMeasCollectionS",
+			"doTestrun",
+			"tAdaptNewSigLevelS",
+			"tAcquireS",
+			"tMeascollections",
+			"tMeascollectionss",
+			"tWaitInit",
+			"doTestrun",
+			"nominal",
+			"mpdbs",
+			"multipath offset",
+			"mpOffsStep",
+			"mpOffs",
+			"lineNumber",
+			"doTestrun",
+			"svPairId",
+			"mpoffs",
+			"offs",
+			"tacquire",
+			"twait",
+			"simsvpairs",
+			"tacquire",
+			"setmp",
+			"offs",
+			"twait",
+			"desc",
+			"gsm",
+			"AllBands_GAL_E5b_RF_GSM",
+			"gal_e1",
+			"gal_ei",
+			"20mhz",
+			"lte",
+			"narrowband",
+			"Lte",
+			"lte",
+			"config",
+			"nb",
+			"lte",
+			"lte_nb",
+			"lte",
+			"rfifreq",
+			"nslscenario",
+			"allbands_glo_l1",
+			"allbands_gps_l1ca",
+			"gps_l1ca",
+			"glo_l2",
+			"limit",
+			"dotestrun",
+			"TestData",
+			"testdata",
+			"scenariometa",
+			"testData",
+			"sig",
+			"doTestrun",
+			"jamPwrList",
+			"weakJamcw",
+			"SignalGen.0",
+			"}\n",
+			"temprange",
+			"bootup",
+			"doTestrun",
+			"measurements"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"name",
+			"userTime",
+			"timeNow"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 120.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/codename.sublime-build",
+	"project": "level1_challenges.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build",
+  "command": "/usr/bin/cc    -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections   -o CMakeFiles/exs6.dir/exs6.c.o   -c \"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs6.c\"",
+  "file": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs6.c"
+},
+{
+  "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build",
+  "command": "/usr/bin/cc    -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections   -o CMakeFiles/exs12.dir/exs12.c.o   -c \"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs12.c\"",
+  "file": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs12.c"
+},
+{
+  "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build",
+  "command": "/usr/bin/cc    -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections   -o CMakeFiles/exs15_16_18_19_20.dir/exs15_16_18_19_20.c.o   -c \"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs15_16_18_19_20.c\"",
+  "file": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs15_16_18_19_20.c"
+},
+{
+  "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build",
+  "command": "/usr/bin/cc    -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections   -o CMakeFiles/exs1.dir/exs1.c.o   -c \"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs1.c\"",
+  "file": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs1.c"
+},
+{
+  "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build",
+  "command": "/usr/bin/cc    -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections   -o CMakeFiles/exs30.dir/exs30.c.o   -c \"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs30.c\"",
+  "file": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs30.c"
+},
+{
+  "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build",
+  "command": "/usr/bin/cc    -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections   -o CMakeFiles/exs30.dir/sighandler.c.o   -c \"/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/sighandler.c\"",
+  "file": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/sighandler.c"
+}
+]

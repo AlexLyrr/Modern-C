@@ -1,0 +1,14 @@
+According to Modern C, we expose only small and stable functions as inline.
+Moreover, the inline functions can't access state and functions that are
+local to the TU (static variables and functions).
+
+The functions that should be declared as inline are:
+- leapyear
+- gcd
+- fib2
+
+The following functions CANNOT be declared as inline:
+- gcd2 (An inline function cannot be recursive because in case of inline function the code is merely placed into the position from where it is called and does not maintain an information on stack which is necessary for recursion)
+- fib, fibCacheRec, fib2rec (same as above)
+-  (same as above)
+- 

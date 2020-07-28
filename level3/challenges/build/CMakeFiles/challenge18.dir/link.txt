@@ -1,0 +1,1 @@
+/usr/local/musl/bin/musl-gcc  -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections  -rdynamic CMakeFiles/challenge18.dir/challenge18.c.o  -o challenge18 

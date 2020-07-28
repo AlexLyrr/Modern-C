@@ -1,0 +1,37 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+MAX	challenge1.c	9;"	d	file:
+MIN	challenge1.c	8;"	d	file:
+bottom_merge_up	challenge1.c	/^void bottom_merge_up(int A[], size_t iLeft, size_t iRight,$/;"	f
+copy_array	challenge1.c	/^void copy_array(int B[], int A[], size_t len) {$/;"	f
+main	challenge1.c	/^int main() {$/;"	f
+merge_sort	challenge1.c	/^void merge_sort(int array [static 1], size_t len) {$/;"	f
+partition	challenge1.c	/^int partition(int arr[], int low, int high) {$/;"	f
+quick_sort	challenge1.c	/^void quick_sort(int arr[], int low, int high) {$/;"	f
+swap	challenge1.c	/^void swap(int* a, int* b) {$/;"	f
+test_sort_function	challenge1.c	/^bool test_sort_function(int array[], size_t len) {$/;"	f
+derivative	challenge2.c	/^double derivative(double x, double F(double)) {$/;"	f
+is_equal_dbl	challenge2.c	/^bool is_equal_dbl(double a, double b) {$/;"	f
+main	challenge2.c	/^int main() {$/;"	f
+test_derivative	challenge2.c	/^void test_derivative() {$/;"	f
+PI	challenge3.c	12;"	d	file:
+compute_N_decimal_places_of_Pi	challenge3.c	/^void compute_N_decimal_places_of_Pi(int N) {$/;"	f
+main	challenge3.c	/^int main(int argc, char* argv[]) {$/;"	f
+find	challenge4.c	/^size_t find(size_t parent[static 1], size_t e) {$/;"	f
+find_compress	challenge4.c	/^void find_compress(size_t parent[static 1], size_t len,$/;"	f
+find_replace	challenge4.c	/^void find_replace(size_t parent[static 1], size_t len,$/;"	f
+initialize_parent	challenge4.c	/^void initialize_parent(size_t parent[static 1], size_t len) {$/;"	f
+main	challenge4.c	/^int main() {$/;"	f
+print_parent	challenge4.c	/^void print_parent(size_t parent[static 1], size_t len) {$/;"	f
+unify	challenge4.c	/^void unify(size_t parent[static 1], size_t len, size_t e1,$/;"	f
+cmplx_derivative	challenge5.c	/^complex double cmplx_derivative(double complex x,$/;"	f
+derivative	challenge5.c	/^double derivative(double x, double F(double)) {$/;"	f
+is_equal_cmplx_dbl	challenge5.c	/^bool is_equal_cmplx_dbl(double complex a, double complex b) {$/;"	f
+is_equal_dbl	challenge5.c	/^bool is_equal_dbl(double a, double b) {$/;"	f
+main	challenge5.c	/^int main() {$/;"	f
+test_derivative	challenge5.c	/^void test_derivative() {$/;"	f
+test_derivative_cmplx	challenge5.c	/^void test_derivative_cmplx() {$/;"	f
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/

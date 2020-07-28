@@ -1,0 +1,3 @@
+Find the two reasons why this occurrence of fabs in the macro expansion is not itself expanded.
+1) The fabs) inside the macro is not a function-like macro (the one we specify) so it shouldn't be expanded
+2) When a macro is called, The definition of the macro is temporarily disabled to avoid infinite recursion.

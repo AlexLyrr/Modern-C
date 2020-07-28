@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/myapp.dir/challenge5.c.o  -o myapp -lm 

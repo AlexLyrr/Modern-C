@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs6.c
+stdio.h
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/stdio.h
+

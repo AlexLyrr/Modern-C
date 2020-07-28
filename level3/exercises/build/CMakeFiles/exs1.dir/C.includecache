@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/euclid.h
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs1.c
+exs1.h
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs1.h
+
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs1.h
+stdbool.h
+-
+euclid.h
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/euclid.h
+math.h
+-
+

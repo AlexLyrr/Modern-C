@@ -1,0 +1,19 @@
+[
+    {
+        "arguments": [
+            "cc", 
+            "-c", 
+            "-std=c11", 
+            "-g", 
+            "-Wall", 
+            "-Wextra", 
+            "-pedantic", 
+            "-DUNITY_SUPPORT_64", 
+            "-o", 
+            "challenge14.out", 
+            "challenge14.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level2/challenges", 
+        "file": "challenge14.c"
+    }
+]

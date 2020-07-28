@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/exs30.c
+ctype.h
+-
+setjmp.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+sighandler.h
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/sighandler.h
+
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/sighandler.c
+signal.h
+-
+errno.h
+-
+stdlib.h
+-
+string.h
+-
+sighandler.h
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/sighandler.h
+
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/sighandler.h
+signal.h
+-
+stdio.h
+-
+stdatomic.h
+-
+

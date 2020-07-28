@@ -1,0 +1,1 @@
+/usr/bin/cc  -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections  -rdynamic CMakeFiles/exs30.dir/exs30.c.o CMakeFiles/exs30.dir/sighandler.c.o  -o exs30 

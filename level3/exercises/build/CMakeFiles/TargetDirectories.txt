@@ -1,0 +1,7 @@
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build/CMakeFiles/rebuild_cache.dir
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build/CMakeFiles/exs6.dir
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build/CMakeFiles/exs12.dir
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build/CMakeFiles/exs15_16_18_19_20.dir
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build/CMakeFiles/edit_cache.dir
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build/CMakeFiles/exs1.dir
+/media/sf_vbx_shared/study material/Programming/C/code/Modern C/level3/exercises/build/CMakeFiles/exs30.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -ggdb -std=c11 -Wall -O3 -march=native -fdata-sections -ffunction-sections  -rdynamic CMakeFiles/exs15_16.dir/exs15_16.c.o  -o exs15_16 
